@@ -1,0 +1,9 @@
+
+.numbers {
+    color: rgb(16, 235, 16);
+    font-weight: bold; /* Optional: make the numbers bold */
+}
+
+.comments {
+    color: rgb(102, 137, 102);
+}
