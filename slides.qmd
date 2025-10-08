@@ -2,8 +2,6 @@
 title: "Welcome ~~Day~~ Data"
 subtitle: "DATA&COMPUTATION@CREST"
 format: 
-    beamer: 
-        theme: "metropolis"
     revealjs: 
         theme: "solarized"  # Dark theme
         slide-number: false
