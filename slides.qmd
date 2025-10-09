@@ -58,9 +58,10 @@ format:
 
 Émilien Ghomi, Office 4044
 
-- Design protocols
-- User interaction
-- Conducting survey
+- Protocol design (variables, metrics, etc.)
+- Planning and support
+- Knowledge and skill management and sharing (betweens students and researchers)
+- Expertise in UX (accessibility, readability, understandability, etc.)
 
 <span class="comments">Contact: emilien.ghomi@ensae.fr</span>
 
@@ -108,6 +109,21 @@ Office 3080
 - “*Don’t be afraid of the command line interface*”: a gentle introduction to CLI
 - “*Separate the content from form*”: introduction and discussion on best Latex practices for research to format scientific articles
 - *Learning from open-source practices to improve open science*: introduction to code versioning tools (Git & Github) 
+
+---
+
+## Data, Code & Coffee
+
+<span class="comments">discuss programming, data collection & management, computational infrastructures, scientific software...</span>
+
+**Next dates**
+
+- October 29
+- November 5
+- November 19
+- December 3
+- December 10
+
 
 ---
 
