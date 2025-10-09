@@ -15,7 +15,7 @@ format:
 
 ## A diversity of skills and needs
 
-- Computational power (in house and external)
+- Computational ressources (in house and external)
 - Programming skills (Python, R, Julia, ...)
 - Experimental data & surveys
 - Data storage & management
@@ -25,14 +25,6 @@ format:
 
 ## Data contacts
 
-<!-- 
-- A quick word about the transversal data ressources at crest
-- I am Emilien, data ingeneer here at CREST
-- Different messages for you : the result of a survey, available ressources, an incoming training, and a quick demo if I have time
-- We are a few people to support digital practices
-- Ranging from material and infrastructure with Alexis and Philippe to methods and conceptualization with Claire and me.
- -->
-
 - **Experimental design**: Émilien Ghomi
 - **Data & Computation Support**: Émilien Schultz
 - **DSI contact**: 
@@ -41,29 +33,6 @@ format:
 
 <span class="numbers">Don't hesitate to contact us</span>
 
----
-
-## Data support
-
-Émilien schultz, Office 4044
-
-- Computational social science (text as data, ...)
-- Best pratices for scientific programming
-- Software development
-
-<span class="comments">Contact: emilien.schultz@ensae.fr</span>
-
-
-## Experimental design
-
-Émilien Ghomi, Office 4044
-
-- Protocol design (variables, metrics, etc.)
-- Planning and support
-- Knowledge and skill management and sharing (betweens students and researchers)
-- Expertise in UX (accessibility, readability, understandability, etc.)
-
-<span class="comments">Contact: emilien.ghomi@ensae.fr</span>
 
 ---
 
@@ -87,9 +56,7 @@ Philippe Pinczon du Sel, Office 4036
 
 ## GENES Transversal support
 
-Alexis Guyot
-
-Office 3080
+Alexis Guyot, Office 3080
 
 - Prospective for software & infrastructure
 - Specific demands regarding servers & storage
@@ -98,23 +65,38 @@ Office 3080
 
 <span class="comments">Contact with *support.informatique@ensae.fr*</span>
 
----
-
-
-## Announcement:  Digital Skills for PhD's
-
-
-**October 15th (next week !!!)**
-
-- “*Don’t be afraid of the command line interface*”: a gentle introduction to CLI
-- “*Separate the content from form*”: introduction and discussion on best Latex practices for research to format scientific articles
-- *Learning from open-source practices to improve open science*: introduction to code versioning tools (Git & Github) 
 
 ---
 
-## Data, Code & Coffee
+## Experimental design
 
-<span class="comments">discuss programming, data collection & management, computational infrastructures, scientific software...</span>
+Émilien Ghomi, Office 4044
+
+- Protocol design (variables, metrics, etc.)
+- Planning and support
+- Knowledge and skill management and sharing (betweens students and researchers)
+- Expertise in UX (accessibility, readability, understandability, etc.)
+
+<span class="comments">Contact: emilien.ghomi@ensae.fr</span>
+
+
+---
+
+## Data support
+
+Émilien Schultz, Office 4044
+
+- Computational social science (text as data, ...)
+- Best pratices for scientific programming
+- Software development
+
+<span class="comments">Contact: emilien.schultz@ensae.fr</span>
+
+---
+
+## Data, Code & Coffee in Office 4044
+
+<span class="comments">discuss digital best practices, data collection & management, computational infrastructures, scientific software...</span>
 
 **Next dates**
 
@@ -124,6 +106,17 @@ Office 3080
 - December 3
 - December 10
 
+
+---
+
+## Announcement:  Digital Skills for PhD's
+
+
+**October 15th (next week !!!)**
+
+- “*Don’t be afraid of the command line interface*”: a gentle introduction to CLI
+- “*Separate the content from form*”: introduction and discussion on best Latex practices for research to format scientific articles
+- *Learning from open-source practices to improve open science*: introduction to code versioning tools (Git & Github) 
 
 ---
 
